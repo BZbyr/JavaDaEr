@@ -1,0 +1,3 @@
+2,gong bao ji ding,60.0,3
+2,bolu gulaorou,20.0,15
+2,suantai rousi,35.0,46

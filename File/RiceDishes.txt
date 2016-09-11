@@ -1,0 +1,6 @@
+3,hóng cháng chǎofàn,30.0,0
+3,huángjīn dà pái fàn,30.0,0
+3,huǒtuǐ chǎofàn,25.0,1
+3,qīngjiāo niúròu dàn chǎofàn,25.0,1
+3,shēngcài niúròu chǎofàn,38.0,1
+3,shā-chá niú sōng fàn,10.0,1

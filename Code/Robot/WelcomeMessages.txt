@@ -1,0 +1,4 @@
+Hello
+Hi
+How are you today?
+Isn't the weather great!	

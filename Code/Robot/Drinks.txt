@@ -1,0 +1,6 @@
+5,lvcha,3.0,0
+5,hongcha,10.0,2
+5,molihua,30.0,3
+5,kele,3.0,6
+5,xuebi,3.0,7
+5,niunai,12.0,6

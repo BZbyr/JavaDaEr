@@ -1,0 +1,6 @@
+3,hongchang chaofan,30.0,2
+3,huangjin dapaifan,30.0,7
+3,huotui chaofan,25.0,8
+3,qingjiao niurou danchaofan,25.0,7
+3,shengcai niurou chaofan,38.0,10
+3,shacha niu song fan,10.0,1
